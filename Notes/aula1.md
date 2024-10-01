@@ -1,22 +1,23 @@
 
-## Em Aula
+# Em Aula
 
-- Areas
-   - in->dados out->dados isso é uma modelagem geometrica
-        - 
+## Areas
 
-   - in->imagem out->dados : analise de imagens
-        - identificar os objetos a partir da imagem
+- in->dados out->dados isso é uma modelagem geometrica
 
-   - in->dados out->imagens : sintese de imagens 
+- in->imagem out->dados : analise de imagens
+    - identificar os objetos a partir da imagem
 
-   - in->imagem out->imagens : processamento de imagem
-        - apliçao de filtro por exemplo
+- in->dados out->imagens : sintese de imagens 
+
+- in->imagem out->imagens : processamento de imagem
+    - apliçao de filtro por exemplo
 
 ![representaçao das areas](image1.png)
-
+![outra representaçao das areas](image2.png)
 
 ## Para Casa
+
 - Leitura: https://hbatagelo.github.io/cg/intro.html
     - 2, 2.1, 2.2
 - Adiantado(opcional) --> (08/10 - Ter) Topico de sistemas gráficos

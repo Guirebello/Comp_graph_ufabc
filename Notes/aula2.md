@@ -17,3 +17,6 @@ g++ -Wall -Iinclude -g main.cpp -o main.exe -Llib-mingw-w64 -lglfw3 -lgdi32 -lop
 ```
 
 
+# Tarefa pra casa
+
+- Configurar GLUT no windows/VS Code (vale ponto)

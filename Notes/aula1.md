@@ -13,8 +13,8 @@
 - in->imagem out->imagens : processamento de imagem
   - apliçao de filtro por exemplo
 
-![representaçao das areas](image1.png)
-![outra representaçao das areas](image2.png)
+![representaçao das areas](img/image1.png)
+![outra representaçao das areas](img/image2.png)
 
 ---
 

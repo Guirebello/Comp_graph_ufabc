@@ -1,1 +1,1 @@
-# Comp_graph_ufabc
+# Anotações da matéria Computação Grafica - UFABC

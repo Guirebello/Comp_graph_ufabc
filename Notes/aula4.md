@@ -20,7 +20,7 @@ void display_GL_POINTS()
 }
 /*Aqui podemos usar glVertex2f já que estamos apenas no plano 2D*/
 ```
-
+![output GL_TRIANGLES](img/image_gl_triangle.png)
 Para rodar a função acima, que desenha as figuras, precisamos fazer a chamada dela no loop de atualização da tela
 ![bloco de codigo](img/image-13.png)
 
